@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Public Brushes -->
+    <SolidColorBrush x:Key="Background" Color="#3F3F3F"/>
+    <SolidColorBrush x:Key="Foreground" Color="White"/>
+    <SolidColorBrush x:Key="MouseOver" Color="#282B2E"/>
+
+    <!-- ComboBox Brushes -->
+    <SolidColorBrush x:Key="ExpandButtonBrush" Color="Gray"/>
+    <SolidColorBrush x:Key="WindowBackgroundBrush" Color="Gray" />
+    <SolidColorBrush x:Key="ArrowBrush" Color="White"/>
+</ResourceDictionary>

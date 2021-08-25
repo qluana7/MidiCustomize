@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0011: 중괄호 추가
+csharp_prefer_braces = when_multiline
